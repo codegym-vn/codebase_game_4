@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7060693b20cb974db99625f48c73e30, type: 3}
+  m_Name: Health_Small
+  m_EditorClassIdentifier: Assembly-CSharp::Item
+  itemName: Health Small
+  description: description Health Small
+  icon: {fileID: 8872841089418529513, guid: a3523cd9070316f46bced97ff8686b12, type: 3}
+  itemType: 1
+  price: 60
+  ammoAmount: 30
+  healAmount: 30
+  skinPreview: {fileID: 0}
+  isDefault: 0
